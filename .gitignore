@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+
+
+# System Files
+.DS_Store
+Thumbs.db
