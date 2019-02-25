@@ -16,6 +16,7 @@
   - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
   - [TypeScript Toolbox](https://marketplace.visualstudio.com/items?itemName=DSKWRK.vscode-generate-getter-setter)
   - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+  - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
   
 ### Themes
 
