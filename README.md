@@ -20,6 +20,7 @@
   
 ### Themes
 
+  - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
   - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
   - [Cobalt2 Theme Officiel](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
   - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
